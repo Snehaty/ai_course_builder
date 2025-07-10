@@ -3,3 +3,4 @@ google-generativeai
 markdown
 python-dotenv
 requests
+gunicorn
