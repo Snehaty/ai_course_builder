@@ -1,4 +1,4 @@
-streamlit
+Flask
 google-generativeai
 markdown
 python-dotenv
